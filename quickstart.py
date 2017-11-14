@@ -4,7 +4,7 @@ import os
 
 def main(): 
     print('Hello world!')
-    print('this jerry\'s greet.')
+    print('this is Arsene\'s greeting.')
 
     foo(5, 10)
 
@@ -13,9 +13,9 @@ def main():
 
     counter = 0
     counter += 1
-    food = ['apple', 'orange', 'banana']
+    food = ['pen', 'apple']
     for i in food:
-        print('i like ' + i)
+        print('I have a ' + i + '~')
 
     print('count to 10')
     for i in range(10):
